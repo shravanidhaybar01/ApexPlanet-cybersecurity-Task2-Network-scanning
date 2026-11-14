@@ -1,0 +1,17 @@
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Virtual machines
+*.vdi
+*.vmdk
+*.vbox
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
